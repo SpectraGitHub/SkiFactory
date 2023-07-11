@@ -1,4 +1,4 @@
-<h1>Group 29</h1>
+<h1>Ski Factory</h1>
 
 Leidulf Vigre and Benjamin L. Wood
 
