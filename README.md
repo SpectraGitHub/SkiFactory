@@ -6,6 +6,8 @@ Leidulf Vigre and Benjamin L. Wood
 ## About
 In this project, we developed a database system for a Ski factory, such as [Madshus](https://madshus.com/no-no/support/story), with RESTful APIs for different types of users. The example is a Ski equipment manufacturer that has several internal divisions such as, Sales & delivery, Factory, Storage and Administration.
 
+It is written in Python with a SQL Database, utilizing Flask as the server for handling RESTful API requests, allowing clients to interact with the database through HTTP endpoints.
+
 ## Project endpoints: 
 - Public endpoint:
    - Retrieves list of ski types with model filter
